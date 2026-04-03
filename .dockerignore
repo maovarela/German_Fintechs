@@ -1,0 +1,9 @@
+.git
+data/
+mlruns/
+__pycache__/
+*.pyc
+*.pyo
+German_Fintech.py
+*.egg-info
+.env
